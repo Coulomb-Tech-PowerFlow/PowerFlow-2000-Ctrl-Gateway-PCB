@@ -15,3 +15,18 @@ Design Files for powerflow-2000
 <div align="middle">
 <img width=80% src="Images/ctrl-3dView.png"> </img>
 </div>
+
+<h4>Gateway-Schematic</h4>
+<div align="middle">
+<img width=80% src="Images/gateway-schematic.png"> </img>
+</div>
+
+<h4>Gateway-PCB Layout</h4>
+<div align="middle">
+<img width=80% src="Images/gateway-pcbLayout.png"> </img>
+</div>
+
+<h4>Gateway-3D View</h4>
+<div align="middle">
+<img width=80% src="Images/gateway-3dView.png"> </img>
+</div>
